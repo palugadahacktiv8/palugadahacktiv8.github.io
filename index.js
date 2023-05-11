@@ -1,5 +1,4 @@
-let data = [
-  {
+let data = [{
     id: 1,
     name: "Lampu Meja",
     harga: 2000,
@@ -36,3 +35,5 @@ let data = [
     rating: [8, "barangnya keren"],
   },
 ];
+
+// perubahan untuk backend test lagi
